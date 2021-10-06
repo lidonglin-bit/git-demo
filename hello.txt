@@ -13,4 +13,4 @@ hello git! hello donglin!
 hello git! hello donglin! 
 hello git! hello donglin! 
 hello git! hello donglin! master test 
-hello git! hello donglin!
+hello git! hello donglin! hot-fix test
